@@ -21,7 +21,7 @@ ELK 활용한 연도별 출생 통계 데이터 수집 및 시각화
 </div>
 
 ## 🔶 Github 🔶
-### JJungeee Github
+### JJungeee Github _ ELK_Mini_Project
 
 <div align=center>
 
@@ -35,6 +35,12 @@ ELK 활용한 연도별 출생 통계 데이터 수집 및 시각화
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJungeee&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 </div>
+ 
+<br> 
+<br>
+
+## 🔶 Github 🔶
+### JJungeee Github
 
 <div align=center>
  

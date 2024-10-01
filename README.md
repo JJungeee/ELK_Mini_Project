@@ -14,7 +14,11 @@ ELK 활용한 연도별 출생 통계 데이터 수집 및 시각화
 <br> 
 <br> 
 
+<div align=center>
+ 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+
+</div>
 
 ## 🔶 Github 🔶
 ### JJungeee Github

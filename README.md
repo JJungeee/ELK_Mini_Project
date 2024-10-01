@@ -45,6 +45,7 @@ ELK 활용한 연도별 출생 통계 데이터 수집 및 시각화
 <div align=center>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJungeee&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJungeee)](https://github.com/JJungeee/github-readme-stats)
 
 </div>
 

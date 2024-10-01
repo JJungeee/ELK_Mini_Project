@@ -32,12 +32,15 @@ ELK 활용한 연도별 출생 통계 데이터 수집 및 시각화
 </a>
 <a href="https://github.com/JJungeee/ELK_Mini_Project/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJungeee&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-
 </a>
 </div>
 
-
+<div align=center>
  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JJungeee&theme=nord_dark)
+
+</div>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJungeee&theme=tokyonight)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JJungeee&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JJungeee&theme=nord_dark)

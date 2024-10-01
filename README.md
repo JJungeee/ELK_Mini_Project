@@ -27,11 +27,7 @@ ELK 활용한 연도별 출생 통계 데이터 수집 및 시각화
 
  <a href="https://github.com/JJungeee/ELK_Mini_Project/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJungeee&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38%>
-  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJungeee)](https://github.com/JJungeee/github-readme-stats)  
 </a>
-
-
 <a href="https://github.com/JJungeee/ELK_Mini_Project/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JJungeee&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
@@ -43,13 +39,7 @@ ELK 활용한 연도별 출생 통계 데이터 수집 및 시각화
 <div align=center>
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JJungeee&theme=nord_dark)
-
-</div>
-
-
-<div align=center>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJungeee)](https://github.com/JJungeee/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJungeee&theme=tokyonight)](https://git.io/streak-stats)
-
 </div>
 
